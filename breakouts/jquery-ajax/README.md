@@ -9,3 +9,7 @@
 - [x] Triggering HTTP requests with AJAX
 - [x] Receiving results and accessing to them
 - [x] Populating project with received data
+
+### Video
+
+[https://vimeo.com/786456480/a837152f40](https://vimeo.com/786456480/a837152f40)
